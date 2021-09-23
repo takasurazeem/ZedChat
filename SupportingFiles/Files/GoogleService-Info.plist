@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>930719842713-88bka56lcbn6h35jj42vj4kkne018ib0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.930719842713-88bka56lcbn6h35jj42vj4kkne018ib0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>930719842713-abdnkc7jn240hdlg55quj8ba0ocatv20.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEvYVlDMpsSHORLEaZ0ppgG7L34D-2Eko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>930719842713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zaryan.ZedChat</string>
+	<key>PROJECT_ID</key>
+	<string>zedchat-896a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zedchat-896a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:930719842713:ios:7249b775ca9865d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://zedchat-896a5.firebaseio.com</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>com.googleusercontent.apps.240281374612-pib76mqidnjq9acue33a9n6deok8i4p6</string>
+            </array>
+        </dict>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>com.googleusercontent.apps.930719842713-88bka56lcbn6h35jj42vj4kkne018ib0</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>
